@@ -1,6 +1,7 @@
 🧑‍💻 Minh TRIEU
 
 Développeur Web Front-End en Devenir | Apprenant Passionné
+Je recherche un stage !!
 
 🔭 Actuellement :
 
