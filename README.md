@@ -1,6 +1,6 @@
-🧑‍💻 Minh TRIEU
+🧑‍💻 trmnh
 
-Développeur Web Front-End en Devenir | Apprenant Passionné
+Développeur Web Front-End | Apprenant Passionné
 
 🔭 Actuellement :
 
